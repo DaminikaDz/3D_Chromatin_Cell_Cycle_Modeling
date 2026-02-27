@@ -1,0 +1,59 @@
+data_nucsim
+# 
+_entry.id nucsim
+# 
+_audit_conform.dict_name       mmcif_pdbx.dic 
+_audit_conform.dict_version    5.296 
+_audit_conform.dict_location   http://mmcif.pdb.org/dictionaries/ascii/mmcif_pdbx.dic 
+# ----------- ATOMS ----------------
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z
+ATOM 1 D CA . CHR chr1-M 1 1 ? -5.744 -12.241 -12.160
+ATOM 2 D CA . CHR chr1-M 2 2 ? -13.018 -3.320 1.461
+ATOM 3 D CA . CHR chr1-M 3 3 ? -10.554 10.573 -9.196
+ATOM 4 D CA . CHR chr1-M 4 4 ? 5.174 -4.561 -16.996
+ATOM 5 D CA . CHR chr1-M 5 5 ? -11.672 -0.719 -17.301
+ATOM 6 D CA . CHR chr1-M 6 6 ? 3.768 11.902 -15.770
+ATOM 7 D CA . CHR chr1-M 7 7 ? -3.354 10.086 1.624
+ATOM 8 D CA . CHR chr1-M 8 8 ? 1.940 -12.169 -0.294
+ATOM 9 D CA . CHR chr1-M 9 9 ? 12.116 1.272 -8.744
+ATOM 10 D CA . CHR chr1-M 10 10 ? 6.441 -0.067 5.550
+ATOM 11 D CA . CHR chr1-M 11 11 ? 13.827 -10.462 27.334
+ATOM 12 D CA . CHR chr1-M 12 12 ? 3.456 10.189 36.735
+ATOM 13 D CA . CHR chr1-M 13 13 ? 24.646 19.532 46.988
+#
+loop_
+_struct_conn.id
+_struct_conn.conn_type_id
+_struct_conn.ptnr1_label_comp_id
+_struct_conn.ptnr1_label_asym_id
+_struct_conn.ptnr1_label_seq_id
+_struct_conn.ptnr1_label_atom_id
+_struct_conn.ptnr2_label_comp_id
+_struct_conn.ptnr2_label_asym_id
+_struct_conn.ptnr2_label_seq_id
+_struct_conn.ptnr2_label_atom_id
+C0 covale CHR chr1-M 1 CA CHR chr1-M 2 CA
+C1 covale CHR chr1-M 2 CA CHR chr1-M 3 CA
+C2 covale CHR chr1-M 3 CA CHR chr1-M 4 CA
+C3 covale CHR chr1-M 4 CA CHR chr1-M 5 CA
+C4 covale CHR chr1-M 5 CA CHR chr1-M 6 CA
+C5 covale CHR chr1-M 6 CA CHR chr1-M 7 CA
+C6 covale CHR chr1-M 7 CA CHR chr1-M 8 CA
+C7 covale CHR chr1-M 8 CA CHR chr1-M 9 CA
+C8 covale CHR chr1-M 9 CA CHR chr1-M 10 CA
+C9 covale CHR chr1-M 10 CA CHR chr1-M 11 CA
+C10 covale CHR chr1-M 11 CA CHR chr1-M 12 CA
+C11 covale CHR chr1-M 12 CA CHR chr1-M 13 CA

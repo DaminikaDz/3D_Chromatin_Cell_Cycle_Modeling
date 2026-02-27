@@ -1,0 +1,133 @@
+data_nucsim
+# 
+_entry.id nucsim
+# 
+_audit_conform.dict_name       mmcif_pdbx.dic 
+_audit_conform.dict_version    5.296 
+_audit_conform.dict_location   http://mmcif.pdb.org/dictionaries/ascii/mmcif_pdbx.dic 
+# ----------- ATOMS ----------------
+loop_
+_atom_site.group_PDB 
+_atom_site.id 
+_atom_site.type_symbol 
+_atom_site.label_atom_id 
+_atom_site.label_alt_id 
+_atom_site.label_comp_id 
+_atom_site.label_asym_id 
+_atom_site.label_entity_id 
+_atom_site.label_seq_id 
+_atom_site.pdbx_PDB_ins_code 
+_atom_site.Cartn_x 
+_atom_site.Cartn_y 
+_atom_site.Cartn_z
+ATOM 1 D CA . CHR chr1-M 1 1 ? -0.574 -1.224 -1.216
+ATOM 2 D CA . CHR chr1-M 2 2 ? -0.753 -1.006 -0.882
+ATOM 3 D CA . CHR chr1-M 3 3 ? -0.931 -0.787 -0.549
+ATOM 4 D CA . CHR chr1-M 4 4 ? -1.109 -0.569 -0.215
+ATOM 5 D CA . CHR chr1-M 5 5 ? -1.287 -0.350 0.118
+ATOM 6 D CA . CHR chr1-M 6 6 ? -1.247 -0.020 -0.093
+ATOM 7 D CA . CHR chr1-M 7 7 ? -1.186 0.320 -0.354
+ATOM 8 D CA . CHR chr1-M 8 8 ? -1.126 0.660 -0.615
+ATOM 9 D CA . CHR chr1-M 9 9 ? -1.065 1.001 -0.876
+ATOM 10 D CA . CHR chr1-M 10 10 ? -0.734 0.748 -1.079
+ATOM 11 D CA . CHR chr1-M 11 11 ? -0.349 0.378 -1.270
+ATOM 12 D CA . CHR chr1-M 12 12 ? 0.036 0.007 -1.461
+ATOM 13 D CA . CHR chr1-M 13 13 ? 0.421 -0.363 -1.652
+ATOM 14 D CA . CHR chr1-M 14 14 ? 0.208 -0.386 -1.705
+ATOM 15 D CA . CHR chr1-M 15 15 ? -0.205 -0.291 -1.713
+ATOM 16 D CA . CHR chr1-M 16 16 ? -0.617 -0.197 -1.720
+ATOM 17 D CA . CHR chr1-M 17 17 ? -1.030 -0.103 -1.728
+ATOM 18 D CA . CHR chr1-M 18 18 ? -0.915 0.134 -1.705
+ATOM 19 D CA . CHR chr1-M 19 19 ? -0.537 0.443 -1.668
+ATOM 20 D CA . CHR chr1-M 20 20 ? -0.159 0.752 -1.630
+ATOM 21 D CA . CHR chr1-M 21 21 ? 0.219 1.061 -1.593
+ATOM 22 D CA . CHR chr1-M 22 22 ? 0.275 1.164 -1.329
+ATOM 23 D CA . CHR chr1-M 23 23 ? 0.101 1.120 -0.903
+ATOM 24 D CA . CHR chr1-M 24 24 ? -0.074 1.075 -0.477
+ATOM 25 D CA . CHR chr1-M 25 25 ? -0.248 1.031 -0.051
+ATOM 26 D CA . CHR chr1-M 26 26 ? -0.271 0.736 0.139
+ATOM 27 D CA . CHR chr1-M 27 27 ? -0.141 0.191 0.092
+ATOM 28 D CA . CHR chr1-M 28 28 ? -0.011 -0.354 0.045
+ATOM 29 D CA . CHR chr1-M 29 29 ? 0.118 -0.899 -0.002
+ATOM 30 D CA . CHR chr1-M 30 30 ? 0.298 -1.080 -0.116
+ATOM 31 D CA . CHR chr1-M 31 31 ? 0.547 -0.751 -0.323
+ATOM 32 D CA . CHR chr1-M 32 32 ? 0.796 -0.421 -0.529
+ATOM 33 D CA . CHR chr1-M 33 33 ? 1.045 -0.092 -0.736
+ATOM 34 D CA . CHR chr1-M 34 34 ? 1.165 0.116 -0.758
+ATOM 35 D CA . CHR chr1-M 35 35 ? 1.026 0.084 -0.408
+ATOM 36 D CA . CHR chr1-M 36 36 ? 0.887 0.051 -0.058
+ATOM 37 D CA . CHR chr1-M 37 37 ? 0.748 0.018 0.292
+ATOM 38 D CA . CHR chr1-M 38 38 ? 0.689 -0.070 0.688
+ATOM 39 D CA . CHR chr1-M 39 39 ? 0.870 -0.325 1.222
+ATOM 40 D CA . CHR chr1-M 40 40 ? 1.051 -0.579 1.755
+ATOM 41 D CA . CHR chr1-M 41 41 ? 1.232 -0.834 2.289
+ATOM 42 D CA . CHR chr1-M 42 42 ? 1.340 -0.962 2.772
+ATOM 43 D CA . CHR chr1-M 43 43 ? 1.086 -0.456 3.002
+ATOM 44 D CA . CHR chr1-M 44 44 ? 0.832 0.050 3.232
+ATOM 45 D CA . CHR chr1-M 45 45 ? 0.578 0.555 3.463
+ATOM 46 D CA . CHR chr1-M 46 46 ? 0.389 1.038 3.695
+ATOM 47 D CA . CHR chr1-M 47 47 ? 0.908 1.267 3.946
+ATOM 48 D CA . CHR chr1-M 48 48 ? 1.427 1.496 4.197
+ATOM 49 D CA . CHR chr1-M 49 49 ? 1.946 1.724 4.448
+ATOM 50 D CA . CHR chr1-M 50 50 ? 2.465 1.953 4.699
+#
+loop_
+_struct_conn.id
+_struct_conn.conn_type_id
+_struct_conn.ptnr1_label_comp_id
+_struct_conn.ptnr1_label_asym_id
+_struct_conn.ptnr1_label_seq_id
+_struct_conn.ptnr1_label_atom_id
+_struct_conn.ptnr2_label_comp_id
+_struct_conn.ptnr2_label_asym_id
+_struct_conn.ptnr2_label_seq_id
+_struct_conn.ptnr2_label_atom_id
+C0 covale CHR chr1-M 1 CA CHR chr1-M 2 CA
+C1 covale CHR chr1-M 2 CA CHR chr1-M 3 CA
+C2 covale CHR chr1-M 3 CA CHR chr1-M 4 CA
+C3 covale CHR chr1-M 4 CA CHR chr1-M 5 CA
+C4 covale CHR chr1-M 5 CA CHR chr1-M 6 CA
+C5 covale CHR chr1-M 6 CA CHR chr1-M 7 CA
+C6 covale CHR chr1-M 7 CA CHR chr1-M 8 CA
+C7 covale CHR chr1-M 8 CA CHR chr1-M 9 CA
+C8 covale CHR chr1-M 9 CA CHR chr1-M 10 CA
+C9 covale CHR chr1-M 10 CA CHR chr1-M 11 CA
+C10 covale CHR chr1-M 11 CA CHR chr1-M 12 CA
+C11 covale CHR chr1-M 12 CA CHR chr1-M 13 CA
+C12 covale CHR chr1-M 13 CA CHR chr1-M 14 CA
+C13 covale CHR chr1-M 14 CA CHR chr1-M 15 CA
+C14 covale CHR chr1-M 15 CA CHR chr1-M 16 CA
+C15 covale CHR chr1-M 16 CA CHR chr1-M 17 CA
+C16 covale CHR chr1-M 17 CA CHR chr1-M 18 CA
+C17 covale CHR chr1-M 18 CA CHR chr1-M 19 CA
+C18 covale CHR chr1-M 19 CA CHR chr1-M 20 CA
+C19 covale CHR chr1-M 20 CA CHR chr1-M 21 CA
+C20 covale CHR chr1-M 21 CA CHR chr1-M 22 CA
+C21 covale CHR chr1-M 22 CA CHR chr1-M 23 CA
+C22 covale CHR chr1-M 23 CA CHR chr1-M 24 CA
+C23 covale CHR chr1-M 24 CA CHR chr1-M 25 CA
+C24 covale CHR chr1-M 25 CA CHR chr1-M 26 CA
+C25 covale CHR chr1-M 26 CA CHR chr1-M 27 CA
+C26 covale CHR chr1-M 27 CA CHR chr1-M 28 CA
+C27 covale CHR chr1-M 28 CA CHR chr1-M 29 CA
+C28 covale CHR chr1-M 29 CA CHR chr1-M 30 CA
+C29 covale CHR chr1-M 30 CA CHR chr1-M 31 CA
+C30 covale CHR chr1-M 31 CA CHR chr1-M 32 CA
+C31 covale CHR chr1-M 32 CA CHR chr1-M 33 CA
+C32 covale CHR chr1-M 33 CA CHR chr1-M 34 CA
+C33 covale CHR chr1-M 34 CA CHR chr1-M 35 CA
+C34 covale CHR chr1-M 35 CA CHR chr1-M 36 CA
+C35 covale CHR chr1-M 36 CA CHR chr1-M 37 CA
+C36 covale CHR chr1-M 37 CA CHR chr1-M 38 CA
+C37 covale CHR chr1-M 38 CA CHR chr1-M 39 CA
+C38 covale CHR chr1-M 39 CA CHR chr1-M 40 CA
+C39 covale CHR chr1-M 40 CA CHR chr1-M 41 CA
+C40 covale CHR chr1-M 41 CA CHR chr1-M 42 CA
+C41 covale CHR chr1-M 42 CA CHR chr1-M 43 CA
+C42 covale CHR chr1-M 43 CA CHR chr1-M 44 CA
+C43 covale CHR chr1-M 44 CA CHR chr1-M 45 CA
+C44 covale CHR chr1-M 45 CA CHR chr1-M 46 CA
+C45 covale CHR chr1-M 46 CA CHR chr1-M 47 CA
+C46 covale CHR chr1-M 47 CA CHR chr1-M 48 CA
+C47 covale CHR chr1-M 48 CA CHR chr1-M 49 CA
+C48 covale CHR chr1-M 49 CA CHR chr1-M 50 CA
