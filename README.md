@@ -11,6 +11,8 @@ The project used single-cell chromatin contact data:
 - train_data_2000.zip — labeled training data
 - test_data_2000.zip — unlabeled validation data
 
+Due to data sharing restrictions and file size limits, these datasets are not included in the repository.
+
 # Feature Engineering
 
 Features describing chromatin organization and cell relationships were extracted using Python (Pandas). Selected features included:
